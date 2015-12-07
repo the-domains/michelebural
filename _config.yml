@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.770239
+  lightness: 0.435859
+  rhythmicContrast: 0.332661
+  saturation: 0.763093
+cta: {}
+layout_spectrum: 0.986486
+name: michelebural
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.7585257430602165
